@@ -1,6 +1,6 @@
 /* Lab 2 - Logic Structures
 
-   Modified by: Luis Grijalva, 30-Jan 2018
+   Modified by: Luis Grijalva, 22-Feb 2018
    For: OOP 2200 - Object-Oriented Programming I
 */
 
